@@ -1,0 +1,14 @@
+ID du client: 001.
+Le nom du client: EN-NAHEL.
+Le prenom du client: Aissam.
+Le CIN du client: 186295.
+L'adresse du client:  Bouizakarne Guelmim.
+Le telephone client: 0611968826.
+    -----------------------------------------------------------
+ID du client: 002.
+Le nom du client: BOUHRAMACHE.
+Le prenom du client: Yassine.
+Le CIN du client: 186240.
+L'adresse du client:  Bouizakarne Guelmim.
+Le telephone client: 0654703294.
+    -----------------------------------------------------------

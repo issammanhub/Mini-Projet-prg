@@ -1,0 +1,16 @@
+ID du voiture: 01.
+La marque du voiture: Lamborghini.
+Le nom du voiture: Lamborghini Centenario.
+La couleur du voiture: Noire.
+Le nbr de places du voiture: 2.
+Le prix par jour: 400 DH.
+Location: Oui.
+    -----------------------------------------------------------
+ID du voiture: 02.
+La marque du voiture: Ferrari.
+Le nom du voiture: Ferrari LaFrrari Aperta.
+La couleur du voiture: Blanche.
+Le nbr de places du voiture: 4.
+Le prix par jour: 250 DH.
+Location: Non.
+    -----------------------------------------------------------
